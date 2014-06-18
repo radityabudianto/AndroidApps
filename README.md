@@ -1,0 +1,1 @@
+This code are examples of Android Video Development. The classes for this examples are MediaPlayer, VideoView, Media Codec, and Media Extractor. I found this code online and I did some editing for some codes. 
